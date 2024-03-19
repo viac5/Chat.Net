@@ -1,0 +1,3 @@
+Login:SlavaAdmin
+Password:12345678
+Key:1e623635-c450-2672-f656-17adbaa01753

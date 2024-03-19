@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WTs8dvP2qiedBEzpjNeDuhDZmItT53xi5nhu35OKstc=",
+  "Source": "Messenger",
+  "BasePath": "_content/Messenger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Messenger\\wwwroot",
+      "Source": "Messenger",
+      "ContentRoot": "C:\\Users\\kyco4ekk\\Desktop\\ASP.NET\\Messenger\\Messenger\\wwwroot\\",
+      "BasePath": "_content/Messenger",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

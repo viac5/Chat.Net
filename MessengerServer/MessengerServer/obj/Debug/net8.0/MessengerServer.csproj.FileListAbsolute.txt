@@ -1,0 +1,74 @@
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\appsettings.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.staticwebassets.runtime.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.exe
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.deps.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.runtimeconfig.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.pdb
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfoInputs.cache
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfo.cs
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.build.MessengerServer.props
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MessengerServer.props
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MessengerServer.props
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\scopedcss\bundle\MessengerServer.styles.css
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.CopyComplete
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\refint\MessengerServer.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.pdb
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.genruntimeconfig.cache
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\ref\MessengerServer.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\appsettings.Development.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\appsettings.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.staticwebassets.runtime.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.exe
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.deps.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.runtimeconfig.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\MessengerServer.pdb
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.AssemblyReference.cache
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfoInputs.cache
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfo.cs
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.CoreCompileInputs.cache
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.MvcApplicationPartsAssemblyInfo.cache
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.build.MessengerServer.props
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MessengerServer.props
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MessengerServer.props
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\scopedcss\bundle\MessengerServer.styles.css
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.CopyComplete
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\refint\MessengerServer.dll
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.pdb
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\MessengerServer.genruntimeconfig.cache
+D:\c-++#\Новая папка (2)\ASP.NET\MessengerServer\MessengerServer\obj\Debug\net8.0\ref\MessengerServer.dll

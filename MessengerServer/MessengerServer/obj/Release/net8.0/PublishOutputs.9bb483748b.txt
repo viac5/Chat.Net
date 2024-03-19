@@ -1,0 +1,16 @@
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Messenger.exe
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\appsettings.Development.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\appsettings.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Messenger.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Messenger.deps.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Messenger.runtimeconfig.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Messenger.pdb
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.Extensions.Features.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\Messenger\Messenger\obj\Docker\publish\Microsoft.Extensions.Options.dll

@@ -1,0 +1,5 @@
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Release\net8.0\win-x64\publish\appsettings.json
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Release\net8.0\win-x64\publish\MessengerServer.pdb
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Release\net8.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\kyco4ekk\Desktop\ASP.NET\MessengerServer\MessengerServer\bin\Release\net8.0\win-x64\publish\MessengerServer.exe

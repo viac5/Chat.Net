@@ -1,0 +1,42 @@
+﻿<Window x:Class="Client.ProfileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Background="#0F1434"
+        WindowStyle="None"       
+        ResizeMode="NoResize"
+        Title="Профиль" Height="465" Width="400"
+        WindowStartupLocation="Manual"
+        Left="1075" Top="150">
+
+    <Border BorderBrush="#f4c430" BorderThickness="2" CornerRadius="5" >
+        <Grid Margin="-2,2,-2,-2">
+
+            <Image x:Name="ProfilePhoto" Margin="108,53,670,277" Width="180" Height="180" />
+            <Border BorderBrush="#f4c430" BorderThickness="3" CornerRadius="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="108,40,0,0">
+                <Image Source="C:\Users\kyco4ekk\Pictures\Основной Фотоаппарат\IMG_8585.JPG"  Width="180" Height="180" />
+            </Border>
+            <Border BorderBrush="#f4c430" BorderThickness="3" CornerRadius="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="108,251,0,0" Width="116" Height="23">
+                <TextBox x:Name="tbNickname" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Мой ник" VerticalAlignment="Bottom"  VerticalContentAlignment="Center" Width="106" TextChanged="TextBox_NickName" Foreground="WhiteSmoke" BorderBrush="#0F1434" FontSize="12" FontWeight="Bold" FontFamily="GOST type B"  Background="#0F1434" Height="13" IsEnabled = "False" Margin="0,0,0,2"/>
+            </Border>
+            <Border BorderBrush="#f4c430" BorderThickness="3" CornerRadius="5" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,295,0,0" Width="186" Height="92">
+                <TextBox x:Name="tbAboutMe" HorizontalAlignment="Center" TextWrapping="Wrap" Text="О себе" VerticalAlignment="Center" Width="166" Height="72" Foreground="WhiteSmoke" BorderBrush="#0F1434" FontSize="12" FontWeight="Bold" FontFamily="GOST type B"  Background="#0F1434" TextChanged="TextBox_AboutMe"/>
+            </Border>
+            <Border BorderBrush="#f4c430" BorderThickness="2" CornerRadius="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="28,10,0,0" Height="23"  Width="23">
+                <Button  x:Name="bBack" Content="◀️" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#0F1434" Foreground="WhiteSmoke" BorderBrush="#0F1434" Click="Button_Click_Close" FontWeight="Bold" FontFamily="GOST type B" Height="18" Width="15" />
+            </Border>
+            <Border BorderBrush="#f4c430" BorderThickness="2" CornerRadius="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="227,199,0,0" Height="20"  Width="60">
+                <Button x:Name="bChangePhoto" Content="Сменить" Margin="4,0,4,0" Background="#0F1434" Foreground="WhiteSmoke" BorderBrush="#0F1434" FontSize="11" FontWeight="Bold" FontFamily="GOST type B" VerticalAlignment="Center" RenderTransformOrigin="0.546,-0.649" Click="ChangePhoto_Click" Height="15"/>
+            </Border>
+            <Border BorderBrush="#f4c430" BorderThickness="2" CornerRadius="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="227,360,0,0" Height="20"  Width="60">
+                <Button x:Name="bSaveAboutMe" Content="Сохранить" HorizontalAlignment="Center" Background="#0F1434" Foreground="WhiteSmoke" BorderBrush="#0F1434" FontSize="10" FontWeight="Bold" FontFamily="GOST type B" VerticalAlignment="Center" Width="52" Click="bSaveAboutMeText_Click" Height="14"/>
+            </Border>
+            
+        </Grid>
+    </Border>
+
+</Window>
+
